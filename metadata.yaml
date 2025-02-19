@@ -1,0 +1,35 @@
+_repo: Avaruuden-portilla-b-Runoja_75223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Siikaniemi, Väinö
+    aliases:
+    - Siikaniemi, Vaino
+    - Siikaniemi, Väinö Villiam
+    birthdate: 1887
+    deathdate: 1932
+    gutenberg_agent_id: '57889'
+    url: http://www.gutenberg.org/2009/agents/57889
+    wikipedia:
+    - https://en.wikipedia.org/wiki/V%C3%A4in%C3%B6_Siikaniemi
+    - https://fi.wikipedia.org/wiki/Väinö_Siikaniemi
+description: ''
+gutenberg_issued: '2025-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75223'
+language: fi
+pgterms:marc905: 20250101013515siikaniemi
+pgterms:marc906: '1929'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Avaruuden portilla : $b Runoja'
+url: http://www.gutenberg.org/ebooks/75223
