@@ -1,5 +1,8 @@
 _repo: Avaruuden-portilla-b-Runoja_75223
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Siikaniemi, Väinö
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/V%C3%A4in%C3%B6_Siikaniemi
     - https://fi.wikipedia.org/wiki/Väinö_Siikaniemi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75223#Avaruuden-portilla-b-Runoja
 gutenberg_issued: '2025-01-27'
 gutenberg_type: Text
 identifiers:
